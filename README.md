@@ -11,6 +11,7 @@ Frameworks/Tools: Git, TensorFlow
 🚀 Projects:
 
 Password Manager: A secure password storage app using Python, MongoDB, and web technologies.
-Brain Tumor Detection: A machine learning model for detecting brain tumors from MRI images.
 Digit Recognition Model: Built using neural networks to classify handwritten digits.
+Portfolio Project: Created a responsive portfolio website featuring sections like Home, About, Skills, Work, and Contact.
+
 💡 Internship: Completed a Machine Learning and Neural Networks internship at IIIT Allahabad.
